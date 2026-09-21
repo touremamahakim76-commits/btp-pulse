@@ -1,0 +1,19 @@
+{
+  "nom_modele": "regression_lineaire",
+  "mae": 14.987129953589909,
+  "mape": 2.006284892473903,
+  "r2": 0.9996314091017217,
+  "n_train": 700,
+  "n_test": 170,
+  "horizon_jours": 30,
+  "colonnes": [
+    "code_materiau",
+    "prix_log",
+    "lag1_log",
+    "lag2_log",
+    "lag3_log",
+    "moy_mobile_3_log",
+    "tendance"
+  ],
+  "date_entrainement": "2026-09-11T23:06:29"
+}

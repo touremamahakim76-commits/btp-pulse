@@ -1,0 +1,8 @@
+# Module 4 — dépendances des Modules 1/2/3/6/13 réutilisées dans les DAGs
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.1
+numpy>=1.26
+psycopg2-binary>=2.9
+scipy>=1.11

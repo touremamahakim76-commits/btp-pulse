@@ -1,0 +1,4 @@
+# Module 6 — tests statistiques
+scipy>=1.11
+psycopg2-binary>=2.9
+pytest>=8.0

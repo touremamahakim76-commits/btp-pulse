@@ -1,0 +1,911 @@
+date_releve,code_materiau,libelle,unite,prix,indice_base100,source,horodatage_ingestion
+2019-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.5,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.7,100.21,eurostat,2026-09-11T20:38:14
+2019-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.7,100.21,eurostat,2026-09-11T20:38:14
+2019-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.7,100.21,eurostat,2026-09-11T20:38:14
+2019-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.9,100.41,eurostat,2026-09-11T20:38:14
+2019-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.1,100.62,eurostat,2026-09-11T20:38:14
+2019-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.0,100.51,eurostat,2026-09-11T20:38:14
+2019-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.3,100.82,eurostat,2026-09-11T20:38:14
+2019-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.0,100.51,eurostat,2026-09-11T20:38:14
+2019-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.8,100.31,eurostat,2026-09-11T20:38:14
+2019-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.9,100.41,eurostat,2026-09-11T20:38:14
+2019-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,97.9,100.41,eurostat,2026-09-11T20:38:14
+2020-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.5,101.03,eurostat,2026-09-11T20:38:14
+2020-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.3,100.82,eurostat,2026-09-11T20:38:14
+2020-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.4,100.93,eurostat,2026-09-11T20:38:14
+2020-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.1,100.62,eurostat,2026-09-11T20:38:14
+2020-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.3,100.82,eurostat,2026-09-11T20:38:14
+2020-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.6,101.13,eurostat,2026-09-11T20:38:14
+2020-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.8,101.34,eurostat,2026-09-11T20:38:14
+2020-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.6,101.13,eurostat,2026-09-11T20:38:14
+2020-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.9,101.44,eurostat,2026-09-11T20:38:14
+2020-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.6,101.13,eurostat,2026-09-11T20:38:14
+2020-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.5,101.03,eurostat,2026-09-11T20:38:14
+2020-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,98.4,100.93,eurostat,2026-09-11T20:38:14
+2021-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.3,101.85,eurostat,2026-09-11T20:38:14
+2021-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.4,101.96,eurostat,2026-09-11T20:38:14
+2021-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.0,101.54,eurostat,2026-09-11T20:38:14
+2021-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.0,101.54,eurostat,2026-09-11T20:38:14
+2021-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.3,101.85,eurostat,2026-09-11T20:38:14
+2021-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,99.5,102.06,eurostat,2026-09-11T20:38:14
+2021-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,100.1,102.68,eurostat,2026-09-11T20:38:14
+2021-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,101.2,103.81,eurostat,2026-09-11T20:38:14
+2021-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,101.1,103.71,eurostat,2026-09-11T20:38:14
+2021-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,101.8,104.43,eurostat,2026-09-11T20:38:14
+2021-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,102.2,104.84,eurostat,2026-09-11T20:38:14
+2021-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,102.9,105.56,eurostat,2026-09-11T20:38:14
+2022-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,107.4,110.2,eurostat,2026-09-11T20:38:14
+2022-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,108.0,110.81,eurostat,2026-09-11T20:38:14
+2022-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,108.8,111.64,eurostat,2026-09-11T20:38:14
+2022-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,112.6,115.55,eurostat,2026-09-11T20:38:14
+2022-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,114.5,117.51,eurostat,2026-09-11T20:38:14
+2022-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,116.0,119.05,eurostat,2026-09-11T20:38:14
+2022-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,117.1,120.08,eurostat,2026-09-11T20:38:14
+2022-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,118.3,121.32,eurostat,2026-09-11T20:38:14
+2022-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,118.7,121.73,eurostat,2026-09-11T20:38:14
+2022-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,118.8,121.83,eurostat,2026-09-11T20:38:14
+2022-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,120.4,123.48,eurostat,2026-09-11T20:38:14
+2022-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,121.2,124.3,eurostat,2026-09-11T20:38:14
+2023-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.7,129.97,eurostat,2026-09-11T20:38:14
+2023-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.3,132.65,eurostat,2026-09-11T20:38:14
+2023-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.3,133.68,eurostat,2026-09-11T20:38:14
+2023-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.2,133.57,eurostat,2026-09-11T20:38:14
+2023-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.3,133.68,eurostat,2026-09-11T20:38:14
+2023-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.1,133.47,eurostat,2026-09-11T20:38:14
+2023-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.0,132.34,eurostat,2026-09-11T20:38:14
+2023-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.4,132.75,eurostat,2026-09-11T20:38:14
+2023-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.0,132.34,eurostat,2026-09-11T20:38:14
+2023-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,128.8,132.13,eurostat,2026-09-11T20:38:14
+2023-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,128.2,131.51,eurostat,2026-09-11T20:38:14
+2023-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.9,131.2,eurostat,2026-09-11T20:38:14
+2024-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.8,131.1,eurostat,2026-09-11T20:38:14
+2024-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.7,131.0,eurostat,2026-09-11T20:38:14
+2024-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.6,130.9,eurostat,2026-09-11T20:38:14
+2024-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.5,130.79,eurostat,2026-09-11T20:38:14
+2024-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.8,131.1,eurostat,2026-09-11T20:38:14
+2024-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.0,130.28,eurostat,2026-09-11T20:38:14
+2024-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.9,130.18,eurostat,2026-09-11T20:38:14
+2024-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.5,130.79,eurostat,2026-09-11T20:38:14
+2024-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.2,129.45,eurostat,2026-09-11T20:38:14
+2024-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.2,129.45,eurostat,2026-09-11T20:38:14
+2024-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,125.7,128.94,eurostat,2026-09-11T20:38:14
+2024-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,125.9,129.15,eurostat,2026-09-11T20:38:14
+2025-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.1,130.38,eurostat,2026-09-11T20:38:14
+2025-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.8,130.07,eurostat,2026-09-11T20:38:14
+2025-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.5,129.76,eurostat,2026-09-11T20:38:14
+2025-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.8,130.07,eurostat,2026-09-11T20:38:14
+2025-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.1,130.38,eurostat,2026-09-11T20:38:14
+2025-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.0,130.28,eurostat,2026-09-11T20:38:14
+2025-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.9,130.18,eurostat,2026-09-11T20:38:14
+2025-08-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.1,130.38,eurostat,2026-09-11T20:38:14
+2025-09-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.5,129.76,eurostat,2026-09-11T20:38:14
+2025-10-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.2,129.45,eurostat,2026-09-11T20:38:14
+2025-11-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.3,129.56,eurostat,2026-09-11T20:38:14
+2025-12-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,125.8,129.04,eurostat,2026-09-11T20:38:14
+2026-01-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,127.0,130.28,eurostat,2026-09-11T20:38:14
+2026-02-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.8,130.07,eurostat,2026-09-11T20:38:14
+2026-03-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,126.8,130.07,eurostat,2026-09-11T20:38:14
+2026-04-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.3,132.65,eurostat,2026-09-11T20:38:14
+2026-05-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,129.9,133.26,eurostat,2026-09-11T20:38:14
+2026-06-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.8,134.19,eurostat,2026-09-11T20:38:14
+2026-07-01,BETON_M3,Béton prêt à l'emploi C25/30,m3,130.0,133.37,eurostat,2026-09-11T20:38:14
+2019-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,736.0,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,727.0,98.81,eurostat,2026-09-11T20:38:14
+2019-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,729.0,99.04,eurostat,2026-09-11T20:38:14
+2019-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,733.0,99.52,eurostat,2026-09-11T20:38:14
+2019-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,726.0,98.57,eurostat,2026-09-11T20:38:14
+2019-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,738.0,100.24,eurostat,2026-09-11T20:38:14
+2019-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,712.0,96.77,eurostat,2026-09-11T20:38:14
+2019-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,712.0,96.65,eurostat,2026-09-11T20:38:14
+2019-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,709.0,96.3,eurostat,2026-09-11T20:38:14
+2019-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,697.0,94.62,eurostat,2026-09-11T20:38:14
+2019-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,686.0,93.19,eurostat,2026-09-11T20:38:14
+2019-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,683.0,92.83,eurostat,2026-09-11T20:38:14
+2020-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,684.0,92.95,eurostat,2026-09-11T20:38:14
+2020-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,670.0,91.04,eurostat,2026-09-11T20:38:14
+2020-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,677.0,92.0,eurostat,2026-09-11T20:38:14
+2020-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,672.0,91.28,eurostat,2026-09-11T20:38:14
+2020-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,682.0,92.59,eurostat,2026-09-11T20:38:14
+2020-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,670.0,91.04,eurostat,2026-09-11T20:38:14
+2020-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,656.0,89.13,eurostat,2026-09-11T20:38:14
+2020-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,657.0,89.25,eurostat,2026-09-11T20:38:14
+2020-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,659.0,89.49,eurostat,2026-09-11T20:38:14
+2020-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,663.0,90.08,eurostat,2026-09-11T20:38:14
+2020-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,667.0,90.56,eurostat,2026-09-11T20:38:14
+2020-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,671.0,91.16,eurostat,2026-09-11T20:38:14
+2021-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,716.0,97.25,eurostat,2026-09-11T20:38:14
+2021-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,751.0,102.03,eurostat,2026-09-11T20:38:14
+2021-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,775.0,105.26,eurostat,2026-09-11T20:38:14
+2021-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,800.0,108.6,eurostat,2026-09-11T20:38:14
+2021-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,817.0,110.99,eurostat,2026-09-11T20:38:14
+2021-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,866.0,117.68,eurostat,2026-09-11T20:38:14
+2021-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,914.0,124.13,eurostat,2026-09-11T20:38:14
+2021-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,949.0,128.91,eurostat,2026-09-11T20:38:14
+2021-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,970.0,131.78,eurostat,2026-09-11T20:38:14
+2021-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,991.0,134.65,eurostat,2026-09-11T20:38:14
+2021-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1004.0,136.32,eurostat,2026-09-11T20:38:14
+2021-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1002.0,136.08,eurostat,2026-09-11T20:38:14
+2022-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1114.0,151.25,eurostat,2026-09-11T20:38:14
+2022-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1114.0,151.25,eurostat,2026-09-11T20:38:14
+2022-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1156.0,156.99,eurostat,2026-09-11T20:38:14
+2022-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1242.0,168.7,eurostat,2026-09-11T20:38:14
+2022-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1281.0,173.95,eurostat,2026-09-11T20:38:14
+2022-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1285.0,174.55,eurostat,2026-09-11T20:38:14
+2022-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1256.0,170.61,eurostat,2026-09-11T20:38:14
+2022-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1208.0,164.04,eurostat,2026-09-11T20:38:14
+2022-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1174.0,159.5,eurostat,2026-09-11T20:38:14
+2022-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1167.0,158.54,eurostat,2026-09-11T20:38:14
+2022-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1142.0,155.08,eurostat,2026-09-11T20:38:14
+2022-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1127.0,153.05,eurostat,2026-09-11T20:38:14
+2023-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1070.0,145.28,eurostat,2026-09-11T20:38:14
+2023-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1081.0,146.83,eurostat,2026-09-11T20:38:14
+2023-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1079.0,146.59,eurostat,2026-09-11T20:38:14
+2023-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1028.0,139.67,eurostat,2026-09-11T20:38:14
+2023-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1003.0,136.2,eurostat,2026-09-11T20:38:14
+2023-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,1005.0,136.44,eurostat,2026-09-11T20:38:14
+2023-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,983.0,133.45,eurostat,2026-09-11T20:38:14
+2023-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,971.0,131.9,eurostat,2026-09-11T20:38:14
+2023-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,955.0,129.75,eurostat,2026-09-11T20:38:14
+2023-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,945.0,128.32,eurostat,2026-09-11T20:38:14
+2023-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,938.0,127.36,eurostat,2026-09-11T20:38:14
+2023-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,939.0,127.6,eurostat,2026-09-11T20:38:14
+2024-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,915.0,124.25,eurostat,2026-09-11T20:38:14
+2024-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,939.0,127.48,eurostat,2026-09-11T20:38:14
+2024-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,925.0,125.69,eurostat,2026-09-11T20:38:14
+2024-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,924.0,125.57,eurostat,2026-09-11T20:38:14
+2024-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,916.0,124.37,eurostat,2026-09-11T20:38:14
+2024-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,910.0,123.54,eurostat,2026-09-11T20:38:14
+2024-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,914.0,124.13,eurostat,2026-09-11T20:38:14
+2024-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,907.0,123.18,eurostat,2026-09-11T20:38:14
+2024-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,901.0,122.34,eurostat,2026-09-11T20:38:14
+2024-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,894.0,121.39,eurostat,2026-09-11T20:38:14
+2024-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,873.0,118.52,eurostat,2026-09-11T20:38:14
+2024-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,875.0,118.88,eurostat,2026-09-11T20:38:14
+2025-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,869.0,118.04,eurostat,2026-09-11T20:38:14
+2025-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,869.0,118.04,eurostat,2026-09-11T20:38:14
+2025-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,876.0,119.0,eurostat,2026-09-11T20:38:14
+2025-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,879.0,119.35,eurostat,2026-09-11T20:38:14
+2025-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,881.0,119.59,eurostat,2026-09-11T20:38:14
+2025-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,878.0,119.24,eurostat,2026-09-11T20:38:14
+2025-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,866.0,117.56,eurostat,2026-09-11T20:38:14
+2025-08-01,ACIER_T,Acier à béton (ferraillage HA),tonne,855.0,116.13,eurostat,2026-09-11T20:38:14
+2025-09-01,ACIER_T,Acier à béton (ferraillage HA),tonne,850.0,115.41,eurostat,2026-09-11T20:38:14
+2025-10-01,ACIER_T,Acier à béton (ferraillage HA),tonne,848.0,115.17,eurostat,2026-09-11T20:38:14
+2025-11-01,ACIER_T,Acier à béton (ferraillage HA),tonne,840.0,114.1,eurostat,2026-09-11T20:38:14
+2025-12-01,ACIER_T,Acier à béton (ferraillage HA),tonne,843.0,114.46,eurostat,2026-09-11T20:38:14
+2026-01-01,ACIER_T,Acier à béton (ferraillage HA),tonne,860.0,116.85,eurostat,2026-09-11T20:38:14
+2026-02-01,ACIER_T,Acier à béton (ferraillage HA),tonne,875.0,118.88,eurostat,2026-09-11T20:38:14
+2026-03-01,ACIER_T,Acier à béton (ferraillage HA),tonne,889.0,120.79,eurostat,2026-09-11T20:38:14
+2026-04-01,ACIER_T,Acier à béton (ferraillage HA),tonne,920.0,124.97,eurostat,2026-09-11T20:38:14
+2026-05-01,ACIER_T,Acier à béton (ferraillage HA),tonne,934.0,126.88,eurostat,2026-09-11T20:38:14
+2026-06-01,ACIER_T,Acier à béton (ferraillage HA),tonne,940.0,127.72,eurostat,2026-09-11T20:38:14
+2026-07-01,ACIER_T,Acier à béton (ferraillage HA),tonne,950.0,129.03,eurostat,2026-09-11T20:38:14
+2019-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,123.7,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.0,100.21,eurostat,2026-09-11T20:38:14
+2019-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.0,100.21,eurostat,2026-09-11T20:38:14
+2019-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.0,100.21,eurostat,2026-09-11T20:38:14
+2019-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.2,100.41,eurostat,2026-09-11T20:38:14
+2019-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.5,100.62,eurostat,2026-09-11T20:38:14
+2019-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.4,100.51,eurostat,2026-09-11T20:38:14
+2019-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.7,100.82,eurostat,2026-09-11T20:38:14
+2019-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.4,100.51,eurostat,2026-09-11T20:38:14
+2019-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.1,100.31,eurostat,2026-09-11T20:38:14
+2019-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.2,100.41,eurostat,2026-09-11T20:38:14
+2019-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.2,100.41,eurostat,2026-09-11T20:38:14
+2020-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.0,101.03,eurostat,2026-09-11T20:38:14
+2020-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.7,100.82,eurostat,2026-09-11T20:38:14
+2020-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.9,100.93,eurostat,2026-09-11T20:38:14
+2020-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.5,100.62,eurostat,2026-09-11T20:38:14
+2020-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.7,100.82,eurostat,2026-09-11T20:38:14
+2020-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.1,101.13,eurostat,2026-09-11T20:38:14
+2020-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.4,101.34,eurostat,2026-09-11T20:38:14
+2020-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.1,101.13,eurostat,2026-09-11T20:38:14
+2020-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.5,101.44,eurostat,2026-09-11T20:38:14
+2020-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.1,101.13,eurostat,2026-09-11T20:38:14
+2020-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.0,101.03,eurostat,2026-09-11T20:38:14
+2020-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,124.9,100.93,eurostat,2026-09-11T20:38:14
+2021-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,126.0,101.85,eurostat,2026-09-11T20:38:14
+2021-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,126.1,101.96,eurostat,2026-09-11T20:38:14
+2021-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.6,101.54,eurostat,2026-09-11T20:38:14
+2021-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,125.6,101.54,eurostat,2026-09-11T20:38:14
+2021-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,126.0,101.85,eurostat,2026-09-11T20:38:14
+2021-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,126.3,102.06,eurostat,2026-09-11T20:38:14
+2021-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,127.0,102.68,eurostat,2026-09-11T20:38:14
+2021-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,128.4,103.81,eurostat,2026-09-11T20:38:14
+2021-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,128.3,103.71,eurostat,2026-09-11T20:38:14
+2021-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,129.2,104.43,eurostat,2026-09-11T20:38:14
+2021-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,129.7,104.84,eurostat,2026-09-11T20:38:14
+2021-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,130.6,105.56,eurostat,2026-09-11T20:38:14
+2022-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,136.3,110.2,eurostat,2026-09-11T20:38:14
+2022-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,137.1,110.81,eurostat,2026-09-11T20:38:14
+2022-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,138.1,111.64,eurostat,2026-09-11T20:38:14
+2022-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,143.0,115.55,eurostat,2026-09-11T20:38:14
+2022-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,145.4,117.51,eurostat,2026-09-11T20:38:14
+2022-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,147.3,119.05,eurostat,2026-09-11T20:38:14
+2022-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,148.6,120.08,eurostat,2026-09-11T20:38:14
+2022-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,150.1,121.32,eurostat,2026-09-11T20:38:14
+2022-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,150.6,121.73,eurostat,2026-09-11T20:38:14
+2022-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,150.7,121.83,eurostat,2026-09-11T20:38:14
+2022-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,152.8,123.48,eurostat,2026-09-11T20:38:14
+2022-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,153.8,124.3,eurostat,2026-09-11T20:38:14
+2023-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.8,129.97,eurostat,2026-09-11T20:38:14
+2023-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,164.1,132.65,eurostat,2026-09-11T20:38:14
+2023-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,165.4,133.68,eurostat,2026-09-11T20:38:14
+2023-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,165.3,133.57,eurostat,2026-09-11T20:38:14
+2023-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,165.4,133.68,eurostat,2026-09-11T20:38:14
+2023-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,165.1,133.47,eurostat,2026-09-11T20:38:14
+2023-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,163.7,132.34,eurostat,2026-09-11T20:38:14
+2023-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,164.2,132.75,eurostat,2026-09-11T20:38:14
+2023-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,163.7,132.34,eurostat,2026-09-11T20:38:14
+2023-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,163.5,132.13,eurostat,2026-09-11T20:38:14
+2023-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,162.7,131.51,eurostat,2026-09-11T20:38:14
+2023-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,162.3,131.2,eurostat,2026-09-11T20:38:14
+2024-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,162.2,131.1,eurostat,2026-09-11T20:38:14
+2024-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,162.1,131.0,eurostat,2026-09-11T20:38:14
+2024-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.9,130.9,eurostat,2026-09-11T20:38:14
+2024-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.8,130.79,eurostat,2026-09-11T20:38:14
+2024-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,162.2,131.1,eurostat,2026-09-11T20:38:14
+2024-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.2,130.28,eurostat,2026-09-11T20:38:14
+2024-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.1,130.18,eurostat,2026-09-11T20:38:14
+2024-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.8,130.79,eurostat,2026-09-11T20:38:14
+2024-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.2,129.45,eurostat,2026-09-11T20:38:14
+2024-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.2,129.45,eurostat,2026-09-11T20:38:14
+2024-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,159.5,128.94,eurostat,2026-09-11T20:38:14
+2024-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,159.8,129.15,eurostat,2026-09-11T20:38:14
+2025-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.3,130.38,eurostat,2026-09-11T20:38:14
+2025-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.9,130.07,eurostat,2026-09-11T20:38:14
+2025-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.5,129.76,eurostat,2026-09-11T20:38:14
+2025-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.9,130.07,eurostat,2026-09-11T20:38:14
+2025-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.3,130.38,eurostat,2026-09-11T20:38:14
+2025-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.2,130.28,eurostat,2026-09-11T20:38:14
+2025-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.1,130.18,eurostat,2026-09-11T20:38:14
+2025-08-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.3,130.38,eurostat,2026-09-11T20:38:14
+2025-09-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.5,129.76,eurostat,2026-09-11T20:38:14
+2025-10-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.2,129.45,eurostat,2026-09-11T20:38:14
+2025-11-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.3,129.56,eurostat,2026-09-11T20:38:14
+2025-12-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,159.6,129.04,eurostat,2026-09-11T20:38:14
+2026-01-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,161.2,130.28,eurostat,2026-09-11T20:38:14
+2026-02-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.9,130.07,eurostat,2026-09-11T20:38:14
+2026-03-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,160.9,130.07,eurostat,2026-09-11T20:38:14
+2026-04-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,164.1,132.65,eurostat,2026-09-11T20:38:14
+2026-05-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,164.9,133.26,eurostat,2026-09-11T20:38:14
+2026-06-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,166.0,134.19,eurostat,2026-09-11T20:38:14
+2026-07-01,CIMENT_T,"Ciment CEM II 32,5 R",tonne,165.0,133.37,eurostat,2026-09-11T20:38:14
+2019-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,350.3,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,349.9,99.89,eurostat,2026-09-11T20:38:14
+2019-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,350.3,100.0,eurostat,2026-09-11T20:38:14
+2019-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,351.4,100.33,eurostat,2026-09-11T20:38:14
+2019-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,351.0,100.22,eurostat,2026-09-11T20:38:14
+2019-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,350.6,100.11,eurostat,2026-09-11T20:38:14
+2019-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,348.7,99.56,eurostat,2026-09-11T20:38:14
+2019-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,348.3,99.44,eurostat,2026-09-11T20:38:14
+2019-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.8,99.0,eurostat,2026-09-11T20:38:14
+2019-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,347.1,99.11,eurostat,2026-09-11T20:38:14
+2019-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,347.1,99.11,eurostat,2026-09-11T20:38:14
+2019-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.8,99.0,eurostat,2026-09-11T20:38:14
+2020-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.0,98.78,eurostat,2026-09-11T20:38:14
+2020-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.0,98.78,eurostat,2026-09-11T20:38:14
+2020-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,345.6,98.67,eurostat,2026-09-11T20:38:14
+2020-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,344.8,98.44,eurostat,2026-09-11T20:38:14
+2020-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,343.6,98.11,eurostat,2026-09-11T20:38:14
+2020-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,344.8,98.44,eurostat,2026-09-11T20:38:14
+2020-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,344.8,98.44,eurostat,2026-09-11T20:38:14
+2020-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,345.2,98.55,eurostat,2026-09-11T20:38:14
+2020-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,344.8,98.44,eurostat,2026-09-11T20:38:14
+2020-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.4,98.89,eurostat,2026-09-11T20:38:14
+2020-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,346.8,99.0,eurostat,2026-09-11T20:38:14
+2020-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,347.1,99.11,eurostat,2026-09-11T20:38:14
+2021-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,354.2,101.11,eurostat,2026-09-11T20:38:14
+2021-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,354.9,101.33,eurostat,2026-09-11T20:38:14
+2021-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,357.7,102.11,eurostat,2026-09-11T20:38:14
+2021-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,367.0,104.78,eurostat,2026-09-11T20:38:14
+2021-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,372.1,106.23,eurostat,2026-09-11T20:38:14
+2021-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,379.9,108.45,eurostat,2026-09-11T20:38:14
+2021-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,399.7,114.13,eurostat,2026-09-11T20:38:14
+2021-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,404.4,115.46,eurostat,2026-09-11T20:38:14
+2021-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,411.0,117.35,eurostat,2026-09-11T20:38:14
+2021-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,422.7,120.69,eurostat,2026-09-11T20:38:14
+2021-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,425.1,121.36,eurostat,2026-09-11T20:38:14
+2021-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,426.2,121.69,eurostat,2026-09-11T20:38:14
+2022-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,439.1,125.36,eurostat,2026-09-11T20:38:14
+2022-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,441.4,126.03,eurostat,2026-09-11T20:38:14
+2022-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,445.7,127.25,eurostat,2026-09-11T20:38:14
+2022-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,463.2,132.26,eurostat,2026-09-11T20:38:14
+2022-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,471.0,134.48,eurostat,2026-09-11T20:38:14
+2022-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,476.9,136.15,eurostat,2026-09-11T20:38:14
+2022-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,478.4,136.6,eurostat,2026-09-11T20:38:14
+2022-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,481.2,137.37,eurostat,2026-09-11T20:38:14
+2022-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,481.6,137.49,eurostat,2026-09-11T20:38:14
+2022-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,479.6,136.93,eurostat,2026-09-11T20:38:14
+2022-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,476.9,136.15,eurostat,2026-09-11T20:38:14
+2022-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,474.5,135.48,eurostat,2026-09-11T20:38:14
+2023-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,470.3,134.26,eurostat,2026-09-11T20:38:14
+2023-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,469.1,133.93,eurostat,2026-09-11T20:38:14
+2023-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,471.8,134.71,eurostat,2026-09-11T20:38:14
+2023-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,466.8,133.26,eurostat,2026-09-11T20:38:14
+2023-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,467.9,133.59,eurostat,2026-09-11T20:38:14
+2023-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,465.6,132.93,eurostat,2026-09-11T20:38:14
+2023-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,463.2,132.26,eurostat,2026-09-11T20:38:14
+2023-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,462.9,132.15,eurostat,2026-09-11T20:38:14
+2023-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,461.7,131.81,eurostat,2026-09-11T20:38:14
+2023-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,458.6,130.92,eurostat,2026-09-11T20:38:14
+2023-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,455.5,130.03,eurostat,2026-09-11T20:38:14
+2023-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,453.5,129.48,eurostat,2026-09-11T20:38:14
+2024-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,446.5,127.47,eurostat,2026-09-11T20:38:14
+2024-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,444.2,126.81,eurostat,2026-09-11T20:38:14
+2024-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,446.1,127.36,eurostat,2026-09-11T20:38:14
+2024-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,446.1,127.36,eurostat,2026-09-11T20:38:14
+2024-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,445.3,127.14,eurostat,2026-09-11T20:38:14
+2024-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,447.3,127.7,eurostat,2026-09-11T20:38:14
+2024-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,450.4,128.59,eurostat,2026-09-11T20:38:14
+2024-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,450.4,128.59,eurostat,2026-09-11T20:38:14
+2024-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,450.8,128.7,eurostat,2026-09-11T20:38:14
+2024-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,450.4,128.59,eurostat,2026-09-11T20:38:14
+2024-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,450.8,128.7,eurostat,2026-09-11T20:38:14
+2024-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,452.3,129.14,eurostat,2026-09-11T20:38:14
+2025-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,454.3,129.7,eurostat,2026-09-11T20:38:14
+2025-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,455.5,130.03,eurostat,2026-09-11T20:38:14
+2025-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,455.1,129.92,eurostat,2026-09-11T20:38:14
+2025-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,454.3,129.7,eurostat,2026-09-11T20:38:14
+2025-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,457.8,130.7,eurostat,2026-09-11T20:38:14
+2025-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,458.2,130.81,eurostat,2026-09-11T20:38:14
+2025-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,457.4,130.59,eurostat,2026-09-11T20:38:14
+2025-08-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,458.2,130.81,eurostat,2026-09-11T20:38:14
+2025-09-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,460.9,131.59,eurostat,2026-09-11T20:38:14
+2025-10-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,462.9,132.15,eurostat,2026-09-11T20:38:14
+2025-11-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,464.8,132.7,eurostat,2026-09-11T20:38:14
+2025-12-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,465.6,132.93,eurostat,2026-09-11T20:38:14
+2026-01-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,467.9,133.59,eurostat,2026-09-11T20:38:14
+2026-02-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,469.1,133.93,eurostat,2026-09-11T20:38:14
+2026-03-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,469.9,134.15,eurostat,2026-09-11T20:38:14
+2026-04-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,471.8,134.71,eurostat,2026-09-11T20:38:14
+2026-05-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,476.5,136.04,eurostat,2026-09-11T20:38:14
+2026-06-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,479.2,136.82,eurostat,2026-09-11T20:38:14
+2026-07-01,BOIS_M3,Bois de charpente sapin/épicéa,m3,480.0,137.04,eurostat,2026-09-11T20:38:14
+2019-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.01,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.01,100.21,eurostat,2026-09-11T20:38:14
+2019-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.01,100.21,eurostat,2026-09-11T20:38:14
+2019-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.01,100.21,eurostat,2026-09-11T20:38:14
+2019-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.41,eurostat,2026-09-11T20:38:14
+2019-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.62,eurostat,2026-09-11T20:38:14
+2019-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.51,eurostat,2026-09-11T20:38:14
+2019-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.82,eurostat,2026-09-11T20:38:14
+2019-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.51,eurostat,2026-09-11T20:38:14
+2019-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.31,eurostat,2026-09-11T20:38:14
+2019-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.41,eurostat,2026-09-11T20:38:14
+2019-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.41,eurostat,2026-09-11T20:38:14
+2020-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,101.03,eurostat,2026-09-11T20:38:14
+2020-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.82,eurostat,2026-09-11T20:38:14
+2020-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.93,eurostat,2026-09-11T20:38:14
+2020-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.62,eurostat,2026-09-11T20:38:14
+2020-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.82,eurostat,2026-09-11T20:38:14
+2020-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,101.13,eurostat,2026-09-11T20:38:14
+2020-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.34,eurostat,2026-09-11T20:38:14
+2020-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,101.13,eurostat,2026-09-11T20:38:14
+2020-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.44,eurostat,2026-09-11T20:38:14
+2020-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,101.13,eurostat,2026-09-11T20:38:14
+2020-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,101.03,eurostat,2026-09-11T20:38:14
+2020-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.02,100.93,eurostat,2026-09-11T20:38:14
+2021-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.85,eurostat,2026-09-11T20:38:14
+2021-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.96,eurostat,2026-09-11T20:38:14
+2021-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.54,eurostat,2026-09-11T20:38:14
+2021-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.54,eurostat,2026-09-11T20:38:14
+2021-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,101.85,eurostat,2026-09-11T20:38:14
+2021-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.03,102.06,eurostat,2026-09-11T20:38:14
+2021-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.04,102.68,eurostat,2026-09-11T20:38:14
+2021-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.05,103.81,eurostat,2026-09-11T20:38:14
+2021-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.05,103.71,eurostat,2026-09-11T20:38:14
+2021-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.06,104.43,eurostat,2026-09-11T20:38:14
+2021-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.06,104.84,eurostat,2026-09-11T20:38:14
+2021-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.07,105.56,eurostat,2026-09-11T20:38:14
+2022-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.12,110.2,eurostat,2026-09-11T20:38:14
+2022-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.12,110.81,eurostat,2026-09-11T20:38:14
+2022-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.13,111.64,eurostat,2026-09-11T20:38:14
+2022-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.17,115.55,eurostat,2026-09-11T20:38:14
+2022-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.19,117.51,eurostat,2026-09-11T20:38:14
+2022-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.21,119.05,eurostat,2026-09-11T20:38:14
+2022-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.22,120.08,eurostat,2026-09-11T20:38:14
+2022-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.23,121.32,eurostat,2026-09-11T20:38:14
+2022-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.23,121.73,eurostat,2026-09-11T20:38:14
+2022-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.23,121.83,eurostat,2026-09-11T20:38:14
+2022-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.25,123.48,eurostat,2026-09-11T20:38:14
+2022-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.26,124.3,eurostat,2026-09-11T20:38:14
+2023-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,129.97,eurostat,2026-09-11T20:38:14
+2023-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.65,eurostat,2026-09-11T20:38:14
+2023-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.68,eurostat,2026-09-11T20:38:14
+2023-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.57,eurostat,2026-09-11T20:38:14
+2023-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.68,eurostat,2026-09-11T20:38:14
+2023-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.47,eurostat,2026-09-11T20:38:14
+2023-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.34,eurostat,2026-09-11T20:38:14
+2023-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.75,eurostat,2026-09-11T20:38:14
+2023-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.34,eurostat,2026-09-11T20:38:14
+2023-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.13,eurostat,2026-09-11T20:38:14
+2023-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.33,131.51,eurostat,2026-09-11T20:38:14
+2023-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.33,131.2,eurostat,2026-09-11T20:38:14
+2024-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.33,131.1,eurostat,2026-09-11T20:38:14
+2024-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.33,131.0,eurostat,2026-09-11T20:38:14
+2024-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.9,eurostat,2026-09-11T20:38:14
+2024-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.79,eurostat,2026-09-11T20:38:14
+2024-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.33,131.1,eurostat,2026-09-11T20:38:14
+2024-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.28,eurostat,2026-09-11T20:38:14
+2024-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.18,eurostat,2026-09-11T20:38:14
+2024-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.79,eurostat,2026-09-11T20:38:14
+2024-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.45,eurostat,2026-09-11T20:38:14
+2024-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.45,eurostat,2026-09-11T20:38:14
+2024-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,128.94,eurostat,2026-09-11T20:38:14
+2024-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.15,eurostat,2026-09-11T20:38:14
+2025-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.38,eurostat,2026-09-11T20:38:14
+2025-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.07,eurostat,2026-09-11T20:38:14
+2025-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.76,eurostat,2026-09-11T20:38:14
+2025-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.07,eurostat,2026-09-11T20:38:14
+2025-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.38,eurostat,2026-09-11T20:38:14
+2025-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.28,eurostat,2026-09-11T20:38:14
+2025-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.18,eurostat,2026-09-11T20:38:14
+2025-08-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.38,eurostat,2026-09-11T20:38:14
+2025-09-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.76,eurostat,2026-09-11T20:38:14
+2025-10-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.45,eurostat,2026-09-11T20:38:14
+2025-11-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.56,eurostat,2026-09-11T20:38:14
+2025-12-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.31,129.04,eurostat,2026-09-11T20:38:14
+2026-01-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.28,eurostat,2026-09-11T20:38:14
+2026-02-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.07,eurostat,2026-09-11T20:38:14
+2026-03-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.32,130.07,eurostat,2026-09-11T20:38:14
+2026-04-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.34,132.65,eurostat,2026-09-11T20:38:14
+2026-05-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.26,eurostat,2026-09-11T20:38:14
+2026-06-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.36,134.19,eurostat,2026-09-11T20:38:14
+2026-07-01,PARPAING_U,Bloc béton creux 20x20x50,unité,1.35,133.37,eurostat,2026-09-11T20:38:14
+2019-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.4,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.41,100.2,eurostat,2026-09-11T20:38:14
+2019-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.41,100.2,eurostat,2026-09-11T20:38:14
+2019-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.4,100.0,eurostat,2026-09-11T20:38:14
+2019-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2019-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.9,eurostat,2026-09-11T20:38:14
+2019-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.37,99.59,eurostat,2026-09-11T20:38:14
+2019-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.36,99.39,eurostat,2026-09-11T20:38:14
+2019-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.35,99.19,eurostat,2026-09-11T20:38:14
+2019-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.35,99.29,eurostat,2026-09-11T20:38:14
+2019-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.38,99.69,eurostat,2026-09-11T20:38:14
+2019-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.38,99.69,eurostat,2026-09-11T20:38:14
+2020-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.4,100.0,eurostat,2026-09-11T20:38:14
+2020-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2020-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.38,99.69,eurostat,2026-09-11T20:38:14
+2020-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2020-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.36,99.39,eurostat,2026-09-11T20:38:14
+2020-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.38,99.69,eurostat,2026-09-11T20:38:14
+2020-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.37,99.49,eurostat,2026-09-11T20:38:14
+2020-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.37,99.59,eurostat,2026-09-11T20:38:14
+2020-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2020-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.9,eurostat,2026-09-11T20:38:14
+2020-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2020-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.39,99.8,eurostat,2026-09-11T20:38:14
+2021-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.42,100.31,eurostat,2026-09-11T20:38:14
+2021-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.43,100.41,eurostat,2026-09-11T20:38:14
+2021-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.44,100.61,eurostat,2026-09-11T20:38:14
+2021-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.45,100.71,eurostat,2026-09-11T20:38:14
+2021-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.46,100.92,eurostat,2026-09-11T20:38:14
+2021-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.48,101.32,eurostat,2026-09-11T20:38:14
+2021-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.53,102.03,eurostat,2026-09-11T20:38:14
+2021-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.54,102.24,eurostat,2026-09-11T20:38:14
+2021-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.54,102.14,eurostat,2026-09-11T20:38:14
+2021-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.57,102.64,eurostat,2026-09-11T20:38:14
+2021-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.6,103.05,eurostat,2026-09-11T20:38:14
+2021-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.69,104.58,eurostat,2026-09-11T20:38:14
+2022-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.92,108.14,eurostat,2026-09-11T20:38:14
+2022-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,6.98,109.05,eurostat,2026-09-11T20:38:14
+2022-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.08,110.68,eurostat,2026-09-11T20:38:14
+2022-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.32,114.34,eurostat,2026-09-11T20:38:14
+2022-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.46,116.58,eurostat,2026-09-11T20:38:14
+2022-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.51,117.29,eurostat,2026-09-11T20:38:14
+2022-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.55,117.9,eurostat,2026-09-11T20:38:14
+2022-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.64,119.43,eurostat,2026-09-11T20:38:14
+2022-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.85,122.58,eurostat,2026-09-11T20:38:14
+2022-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.86,122.79,eurostat,2026-09-11T20:38:14
+2022-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.0,124.92,eurostat,2026-09-11T20:38:14
+2022-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.13,127.06,eurostat,2026-09-11T20:38:14
+2023-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.61,134.49,eurostat,2026-09-11T20:38:14
+2023-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.62,134.69,eurostat,2026-09-11T20:38:14
+2023-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.63,134.79,eurostat,2026-09-11T20:38:14
+2023-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.63,134.79,eurostat,2026-09-11T20:38:14
+2023-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.57,133.98,eurostat,2026-09-11T20:38:14
+2023-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.56,133.67,eurostat,2026-09-11T20:38:14
+2023-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.43,131.74,eurostat,2026-09-11T20:38:14
+2023-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.38,130.93,eurostat,2026-09-11T20:38:14
+2023-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.39,131.13,eurostat,2026-09-11T20:38:14
+2023-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.33,130.21,eurostat,2026-09-11T20:38:14
+2023-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.28,129.4,eurostat,2026-09-11T20:38:14
+2023-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.25,128.89,eurostat,2026-09-11T20:38:14
+2024-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.07,126.14,eurostat,2026-09-11T20:38:14
+2024-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.1,126.55,eurostat,2026-09-11T20:38:14
+2024-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.09,126.35,eurostat,2026-09-11T20:38:14
+2024-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.05,125.74,eurostat,2026-09-11T20:38:14
+2024-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,8.03,125.53,eurostat,2026-09-11T20:38:14
+2024-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.98,124.62,eurostat,2026-09-11T20:38:14
+2024-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.93,123.91,eurostat,2026-09-11T20:38:14
+2024-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.94,124.11,eurostat,2026-09-11T20:38:14
+2024-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.91,123.6,eurostat,2026-09-11T20:38:14
+2024-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.91,123.6,eurostat,2026-09-11T20:38:14
+2024-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.87,122.99,eurostat,2026-09-11T20:38:14
+2024-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.91,123.6,eurostat,2026-09-11T20:38:14
+2025-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.85,122.69,eurostat,2026-09-11T20:38:14
+2025-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.81,122.08,eurostat,2026-09-11T20:38:14
+2025-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.81,122.08,eurostat,2026-09-11T20:38:14
+2025-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.83,122.28,eurostat,2026-09-11T20:38:14
+2025-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.9,123.5,eurostat,2026-09-11T20:38:14
+2025-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.91,123.6,eurostat,2026-09-11T20:38:14
+2025-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.89,123.3,eurostat,2026-09-11T20:38:14
+2025-08-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.87,122.99,eurostat,2026-09-11T20:38:14
+2025-09-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.88,123.19,eurostat,2026-09-11T20:38:14
+2025-10-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.88,123.19,eurostat,2026-09-11T20:38:14
+2025-11-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.9,123.5,eurostat,2026-09-11T20:38:14
+2025-12-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.87,122.99,eurostat,2026-09-11T20:38:14
+2026-01-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.76,121.26,eurostat,2026-09-11T20:38:14
+2026-02-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.77,121.36,eurostat,2026-09-11T20:38:14
+2026-03-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.79,121.67,eurostat,2026-09-11T20:38:14
+2026-04-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.81,121.97,eurostat,2026-09-11T20:38:14
+2026-05-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.8,121.87,eurostat,2026-09-11T20:38:14
+2026-06-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.83,122.28,eurostat,2026-09-11T20:38:14
+2026-07-01,ISOLANT_M2,Laine de verre 100 mm,m2,7.8,121.87,eurostat,2026-09-11T20:38:14
+2019-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5709.0,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5736.0,100.47,eurostat,2026-09-11T20:38:14
+2019-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5777.0,101.18,eurostat,2026-09-11T20:38:14
+2019-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5803.0,101.65,eurostat,2026-09-11T20:38:14
+2019-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5709.0,100.0,eurostat,2026-09-11T20:38:14
+2019-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5602.0,98.12,eurostat,2026-09-11T20:38:14
+2019-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5609.0,98.24,eurostat,2026-09-11T20:38:14
+2019-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5609.0,98.24,eurostat,2026-09-11T20:38:14
+2019-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5629.0,98.59,eurostat,2026-09-11T20:38:14
+2019-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5622.0,98.47,eurostat,2026-09-11T20:38:14
+2019-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5588.0,97.88,eurostat,2026-09-11T20:38:14
+2019-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5588.0,97.88,eurostat,2026-09-11T20:38:14
+2020-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5568.0,97.53,eurostat,2026-09-11T20:38:14
+2020-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5548.0,97.18,eurostat,2026-09-11T20:38:14
+2020-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5353.0,93.76,eurostat,2026-09-11T20:38:14
+2020-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5232.0,91.65,eurostat,2026-09-11T20:38:14
+2020-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5179.0,90.71,eurostat,2026-09-11T20:38:14
+2020-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5246.0,91.88,eurostat,2026-09-11T20:38:14
+2020-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5273.0,92.35,eurostat,2026-09-11T20:38:14
+2020-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5374.0,94.12,eurostat,2026-09-11T20:38:14
+2020-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5447.0,95.41,eurostat,2026-09-11T20:38:14
+2020-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5454.0,95.53,eurostat,2026-09-11T20:38:14
+2020-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5582.0,97.76,eurostat,2026-09-11T20:38:14
+2020-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5750.0,100.71,eurostat,2026-09-11T20:38:14
+2021-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5830.0,102.12,eurostat,2026-09-11T20:38:14
+2021-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,5951.0,104.24,eurostat,2026-09-11T20:38:14
+2021-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6079.0,106.47,eurostat,2026-09-11T20:38:14
+2021-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6267.0,109.76,eurostat,2026-09-11T20:38:14
+2021-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6509.0,114.0,eurostat,2026-09-11T20:38:14
+2021-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6569.0,115.06,eurostat,2026-09-11T20:38:14
+2021-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6777.0,118.71,eurostat,2026-09-11T20:38:14
+2021-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,6959.0,121.88,eurostat,2026-09-11T20:38:14
+2021-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7174.0,125.65,eurostat,2026-09-11T20:38:14
+2021-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7389.0,129.41,eurostat,2026-09-11T20:38:14
+2021-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7510.0,131.53,eurostat,2026-09-11T20:38:14
+2021-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7590.0,132.94,eurostat,2026-09-11T20:38:14
+2022-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8188.0,143.41,eurostat,2026-09-11T20:38:14
+2022-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8591.0,150.47,eurostat,2026-09-11T20:38:14
+2022-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9296.0,162.82,eurostat,2026-09-11T20:38:14
+2022-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9605.0,168.24,eurostat,2026-09-11T20:38:14
+2022-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9504.0,166.47,eurostat,2026-09-11T20:38:14
+2022-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9256.0,162.12,eurostat,2026-09-11T20:38:14
+2022-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9014.0,157.88,eurostat,2026-09-11T20:38:14
+2022-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9054.0,158.59,eurostat,2026-09-11T20:38:14
+2022-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8947.0,156.71,eurostat,2026-09-11T20:38:14
+2022-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8846.0,154.94,eurostat,2026-09-11T20:38:14
+2022-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8766.0,153.53,eurostat,2026-09-11T20:38:14
+2022-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8739.0,153.06,eurostat,2026-09-11T20:38:14
+2023-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9001.0,157.65,eurostat,2026-09-11T20:38:14
+2023-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8960.0,156.94,eurostat,2026-09-11T20:38:14
+2023-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8719.0,152.71,eurostat,2026-09-11T20:38:14
+2023-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8551.0,149.76,eurostat,2026-09-11T20:38:14
+2023-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8369.0,146.59,eurostat,2026-09-11T20:38:14
+2023-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8228.0,144.12,eurostat,2026-09-11T20:38:14
+2023-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8121.0,142.24,eurostat,2026-09-11T20:38:14
+2023-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8094.0,141.76,eurostat,2026-09-11T20:38:14
+2023-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8040.0,140.82,eurostat,2026-09-11T20:38:14
+2023-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7960.0,139.41,eurostat,2026-09-11T20:38:14
+2023-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7832.0,137.18,eurostat,2026-09-11T20:38:14
+2023-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7785.0,136.35,eurostat,2026-09-11T20:38:14
+2024-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7704.0,134.94,eurostat,2026-09-11T20:38:14
+2024-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7711.0,135.06,eurostat,2026-09-11T20:38:14
+2024-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7758.0,135.88,eurostat,2026-09-11T20:38:14
+2024-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,7993.0,140.0,eurostat,2026-09-11T20:38:14
+2024-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8423.0,147.53,eurostat,2026-09-11T20:38:14
+2024-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8396.0,147.06,eurostat,2026-09-11T20:38:14
+2024-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8363.0,146.47,eurostat,2026-09-11T20:38:14
+2024-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8195.0,143.53,eurostat,2026-09-11T20:38:14
+2024-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8161.0,142.94,eurostat,2026-09-11T20:38:14
+2024-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8329.0,145.88,eurostat,2026-09-11T20:38:14
+2024-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8376.0,146.71,eurostat,2026-09-11T20:38:14
+2024-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8470.0,148.35,eurostat,2026-09-11T20:38:14
+2025-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8591.0,150.47,eurostat,2026-09-11T20:38:14
+2025-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8692.0,152.24,eurostat,2026-09-11T20:38:14
+2025-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8672.0,151.88,eurostat,2026-09-11T20:38:14
+2025-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8524.0,149.29,eurostat,2026-09-11T20:38:14
+2025-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8295.0,145.29,eurostat,2026-09-11T20:38:14
+2025-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8363.0,146.47,eurostat,2026-09-11T20:38:14
+2025-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8275.0,144.94,eurostat,2026-09-11T20:38:14
+2025-08-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8275.0,144.94,eurostat,2026-09-11T20:38:14
+2025-09-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8302.0,145.41,eurostat,2026-09-11T20:38:14
+2025-10-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8410.0,147.29,eurostat,2026-09-11T20:38:14
+2025-11-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8651.0,151.53,eurostat,2026-09-11T20:38:14
+2025-12-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8813.0,154.35,eurostat,2026-09-11T20:38:14
+2026-01-01,CUIVRE_T,Tube cuivre (plomberie),tonne,8940.0,156.59,eurostat,2026-09-11T20:38:14
+2026-02-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9142.0,160.12,eurostat,2026-09-11T20:38:14
+2026-03-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9330.0,163.41,eurostat,2026-09-11T20:38:14
+2026-04-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9619.0,168.47,eurostat,2026-09-11T20:38:14
+2026-05-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9887.0,173.18,eurostat,2026-09-11T20:38:14
+2026-06-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9887.0,173.18,eurostat,2026-09-11T20:38:14
+2026-07-01,CUIVRE_T,Tube cuivre (plomberie),tonne,9800.0,171.65,eurostat,2026-09-11T20:38:14
+2019-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.23,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.21,99.69,eurostat,2026-09-11T20:38:14
+2019-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.2,99.59,eurostat,2026-09-11T20:38:14
+2019-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.19,99.39,eurostat,2026-09-11T20:38:14
+2019-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.2,99.49,eurostat,2026-09-11T20:38:14
+2019-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.21,99.69,eurostat,2026-09-11T20:38:14
+2019-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.2,99.59,eurostat,2026-09-11T20:38:14
+2019-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.2,99.49,eurostat,2026-09-11T20:38:14
+2019-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.18,99.19,eurostat,2026-09-11T20:38:14
+2019-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.16,98.68,eurostat,2026-09-11T20:38:14
+2019-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.14,98.37,eurostat,2026-09-11T20:38:14
+2019-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.12,97.96,eurostat,2026-09-11T20:38:14
+2020-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.08,97.25,eurostat,2026-09-11T20:38:14
+2020-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.09,97.45,eurostat,2026-09-11T20:38:14
+2020-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.1,97.66,eurostat,2026-09-11T20:38:14
+2020-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.11,97.86,eurostat,2026-09-11T20:38:14
+2020-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.09,97.35,eurostat,2026-09-11T20:38:14
+2020-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.07,97.05,eurostat,2026-09-11T20:38:14
+2020-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.03,96.33,eurostat,2026-09-11T20:38:14
+2020-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.05,96.64,eurostat,2026-09-11T20:38:14
+2020-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.04,96.44,eurostat,2026-09-11T20:38:14
+2020-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.05,96.64,eurostat,2026-09-11T20:38:14
+2020-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.05,96.54,eurostat,2026-09-11T20:38:14
+2020-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.05,96.64,eurostat,2026-09-11T20:38:14
+2021-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.07,97.05,eurostat,2026-09-11T20:38:14
+2021-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.1,97.56,eurostat,2026-09-11T20:38:14
+2021-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.15,98.47,eurostat,2026-09-11T20:38:14
+2021-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.25,100.41,eurostat,2026-09-11T20:38:14
+2021-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.29,101.22,eurostat,2026-09-11T20:38:14
+2021-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.35,102.34,eurostat,2026-09-11T20:38:14
+2021-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.39,103.16,eurostat,2026-09-11T20:38:14
+2021-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.41,103.46,eurostat,2026-09-11T20:38:14
+2021-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.42,103.67,eurostat,2026-09-11T20:38:14
+2021-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.45,104.28,eurostat,2026-09-11T20:38:14
+2021-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.49,105.09,eurostat,2026-09-11T20:38:14
+2021-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.5,105.19,eurostat,2026-09-11T20:38:14
+2022-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.63,107.74,eurostat,2026-09-11T20:38:14
+2022-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.71,109.16,eurostat,2026-09-11T20:38:14
+2022-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.75,109.98,eurostat,2026-09-11T20:38:14
+2022-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.93,113.54,eurostat,2026-09-11T20:38:14
+2022-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.05,115.68,eurostat,2026-09-11T20:38:14
+2022-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.06,115.99,eurostat,2026-09-11T20:38:14
+2022-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.16,117.92,eurostat,2026-09-11T20:38:14
+2022-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.16,117.82,eurostat,2026-09-11T20:38:14
+2022-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.14,117.41,eurostat,2026-09-11T20:38:14
+2022-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.12,117.11,eurostat,2026-09-11T20:38:14
+2022-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.09,116.5,eurostat,2026-09-11T20:38:14
+2022-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.09,116.6,eurostat,2026-09-11T20:38:14
+2023-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.17,118.02,eurostat,2026-09-11T20:38:14
+2023-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.18,118.33,eurostat,2026-09-11T20:38:14
+2023-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.22,118.94,eurostat,2026-09-11T20:38:14
+2023-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.17,118.13,eurostat,2026-09-11T20:38:14
+2023-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.15,117.72,eurostat,2026-09-11T20:38:14
+2023-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.18,118.33,eurostat,2026-09-11T20:38:14
+2023-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.15,117.62,eurostat,2026-09-11T20:38:14
+2023-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.11,116.9,eurostat,2026-09-11T20:38:14
+2023-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.06,115.99,eurostat,2026-09-11T20:38:14
+2023-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.08,116.29,eurostat,2026-09-11T20:38:14
+2023-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.02,115.27,eurostat,2026-09-11T20:38:14
+2023-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.98,114.36,eurostat,2026-09-11T20:38:14
+2024-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.97,114.15,eurostat,2026-09-11T20:38:14
+2024-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.0,114.77,eurostat,2026-09-11T20:38:14
+2024-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.98,114.36,eurostat,2026-09-11T20:38:14
+2024-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.98,114.46,eurostat,2026-09-11T20:38:14
+2024-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.99,114.66,eurostat,2026-09-11T20:38:14
+2024-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.02,115.17,eurostat,2026-09-11T20:38:14
+2024-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.0,114.87,eurostat,2026-09-11T20:38:14
+2024-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.99,114.66,eurostat,2026-09-11T20:38:14
+2024-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.02,115.17,eurostat,2026-09-11T20:38:14
+2024-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.0,114.87,eurostat,2026-09-11T20:38:14
+2024-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.97,114.26,eurostat,2026-09-11T20:38:14
+2024-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.97,114.15,eurostat,2026-09-11T20:38:14
+2025-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.0,114.87,eurostat,2026-09-11T20:38:14
+2025-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.01,114.97,eurostat,2026-09-11T20:38:14
+2025-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.98,114.46,eurostat,2026-09-11T20:38:14
+2025-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.94,113.75,eurostat,2026-09-11T20:38:14
+2025-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.96,114.05,eurostat,2026-09-11T20:38:14
+2025-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.95,113.85,eurostat,2026-09-11T20:38:14
+2025-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.96,114.05,eurostat,2026-09-11T20:38:14
+2025-08-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.98,114.46,eurostat,2026-09-11T20:38:14
+2025-09-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.95,113.85,eurostat,2026-09-11T20:38:14
+2025-10-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.94,113.65,eurostat,2026-09-11T20:38:14
+2025-11-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.95,113.85,eurostat,2026-09-11T20:38:14
+2025-12-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.94,113.75,eurostat,2026-09-11T20:38:14
+2026-01-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.91,113.14,eurostat,2026-09-11T20:38:14
+2026-02-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.9,112.93,eurostat,2026-09-11T20:38:14
+2026-03-01,PVC_ML,Tube PVC évacuation Ø100,ml,5.9,112.93,eurostat,2026-09-11T20:38:14
+2026-04-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.0,114.87,eurostat,2026-09-11T20:38:14
+2026-05-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.17,118.02,eurostat,2026-09-11T20:38:14
+2026-06-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.19,118.53,eurostat,2026-09-11T20:38:14
+2026-07-01,PVC_ML,Tube PVC évacuation Ø100,ml,6.2,118.64,eurostat,2026-09-11T20:38:14
+2019-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,47.5,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.7,108.81,eurostat,2026-09-11T20:38:14
+2019-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,53.6,112.78,eurostat,2026-09-11T20:38:14
+2019-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,56.8,119.49,eurostat,2026-09-11T20:38:14
+2019-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,57.0,119.93,eurostat,2026-09-11T20:38:14
+2019-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.3,107.93,eurostat,2026-09-11T20:38:14
+2019-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,53.3,112.11,eurostat,2026-09-11T20:38:14
+2019-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,50.5,106.28,eurostat,2026-09-11T20:38:14
+2019-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,52.9,111.23,eurostat,2026-09-11T20:38:14
+2019-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.3,108.04,eurostat,2026-09-11T20:38:14
+2019-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.2,107.71,eurostat,2026-09-11T20:38:14
+2019-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,52.2,109.8,eurostat,2026-09-11T20:38:14
+2020-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.3,108.04,eurostat,2026-09-11T20:38:14
+2020-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,46.7,98.35,eurostat,2026-09-11T20:38:14
+2020-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,31.1,65.42,eurostat,2026-09-11T20:38:14
+2020-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,20.4,42.84,eurostat,2026-09-11T20:38:14
+2020-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,24.6,51.76,eurostat,2026-09-11T20:38:14
+2020-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,30.8,64.76,eurostat,2026-09-11T20:38:14
+2020-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,33.9,71.26,eurostat,2026-09-11T20:38:14
+2020-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,33.0,69.38,eurostat,2026-09-11T20:38:14
+2020-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,30.6,64.43,eurostat,2026-09-11T20:38:14
+2020-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,30.8,64.87,eurostat,2026-09-11T20:38:14
+2020-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,31.9,67.07,eurostat,2026-09-11T20:38:14
+2020-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,36.1,75.88,eurostat,2026-09-11T20:38:14
+2021-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,39.9,83.92,eurostat,2026-09-11T20:38:14
+2021-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,43.9,92.4,eurostat,2026-09-11T20:38:14
+2021-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,46.6,98.02,eurostat,2026-09-11T20:38:14
+2021-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,46.3,97.36,eurostat,2026-09-11T20:38:14
+2021-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,47.8,100.66,eurostat,2026-09-11T20:38:14
+2021-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,51.5,108.26,eurostat,2026-09-11T20:38:14
+2021-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,53.9,113.44,eurostat,2026-09-11T20:38:14
+2021-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,54.2,114.1,eurostat,2026-09-11T20:38:14
+2021-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,56.3,118.5,eurostat,2026-09-11T20:38:14
+2021-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,64.4,135.46,eurostat,2026-09-11T20:38:14
+2021-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,63.4,133.48,eurostat,2026-09-11T20:38:14
+2021-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,59.9,125.99,eurostat,2026-09-11T20:38:14
+2022-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,68.7,144.49,eurostat,2026-09-11T20:38:14
+2022-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,76.1,160.13,eurostat,2026-09-11T20:38:14
+2022-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,98.1,206.39,eurostat,2026-09-11T20:38:14
+2022-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,97.1,204.41,eurostat,2026-09-11T20:38:14
+2022-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,106.4,223.79,eurostat,2026-09-11T20:38:14
+2022-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,119.6,251.65,eurostat,2026-09-11T20:38:14
+2022-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,105.2,221.37,eurostat,2026-09-11T20:38:14
+2022-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,96.4,202.86,eurostat,2026-09-11T20:38:14
+2022-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,94.0,197.69,eurostat,2026-09-11T20:38:14
+2022-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,104.3,219.49,eurostat,2026-09-11T20:38:14
+2022-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,91.7,192.95,eurostat,2026-09-11T20:38:14
+2022-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,80.0,168.39,eurostat,2026-09-11T20:38:14
+2023-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,83.4,175.44,eurostat,2026-09-11T20:38:14
+2023-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,78.1,164.32,eurostat,2026-09-11T20:38:14
+2023-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,76.5,161.01,eurostat,2026-09-11T20:38:14
+2023-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,73.3,154.3,eurostat,2026-09-11T20:38:14
+2023-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,68.1,143.39,eurostat,2026-09-11T20:38:14
+2023-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,69.9,147.14,eurostat,2026-09-11T20:38:14
+2023-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,74.0,155.73,eurostat,2026-09-11T20:38:14
+2023-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,83.9,176.43,eurostat,2026-09-11T20:38:14
+2023-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,89.9,189.1,eurostat,2026-09-11T20:38:14
+2023-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,82.5,173.68,eurostat,2026-09-11T20:38:14
+2023-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,77.5,163.11,eurostat,2026-09-11T20:38:14
+2023-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,72.0,151.43,eurostat,2026-09-11T20:38:14
+2024-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,73.6,154.96,eurostat,2026-09-11T20:38:14
+2024-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,78.7,165.64,eurostat,2026-09-11T20:38:14
+2024-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,77.2,162.44,eurostat,2026-09-11T20:38:14
+2024-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,79.3,166.96,eurostat,2026-09-11T20:38:14
+2024-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,73.5,154.74,eurostat,2026-09-11T20:38:14
+2024-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,73.3,154.3,eurostat,2026-09-11T20:38:14
+2024-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,74.6,157.05,eurostat,2026-09-11T20:38:14
+2024-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,68.5,144.05,eurostat,2026-09-11T20:38:14
+2024-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,62.3,131.06,eurostat,2026-09-11T20:38:14
+2024-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,66.7,140.31,eurostat,2026-09-11T20:38:14
+2024-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,67.5,142.07,eurostat,2026-09-11T20:38:14
+2024-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,66.9,140.75,eurostat,2026-09-11T20:38:14
+2025-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,72.3,152.09,eurostat,2026-09-11T20:38:14
+2025-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,70.4,148.13,eurostat,2026-09-11T20:38:14
+2025-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,64.1,134.91,eurostat,2026-09-11T20:38:14
+2025-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,59.3,124.67,eurostat,2026-09-11T20:38:14
+2025-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,58.7,123.46,eurostat,2026-09-11T20:38:14
+2025-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,61.6,129.63,eurostat,2026-09-11T20:38:14
+2025-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,63.7,134.03,eurostat,2026-09-11T20:38:14
+2025-08-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,60.2,126.76,eurostat,2026-09-11T20:38:14
+2025-09-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,61.8,129.96,eurostat,2026-09-11T20:38:14
+2025-10-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,60.1,126.54,eurostat,2026-09-11T20:38:14
+2025-11-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,64.1,134.91,eurostat,2026-09-11T20:38:14
+2025-12-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,56.9,119.82,eurostat,2026-09-11T20:38:14
+2026-01-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,57.2,120.26,eurostat,2026-09-11T20:38:14
+2026-02-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,62.1,130.73,eurostat,2026-09-11T20:38:14
+2026-03-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,94.6,199.12,eurostat,2026-09-11T20:38:14
+2026-04-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,102.0,214.54,eurostat,2026-09-11T20:38:14
+2026-05-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,95.4,200.66,eurostat,2026-09-11T20:38:14
+2026-06-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,84.3,177.42,eurostat,2026-09-11T20:38:14
+2026-07-01,BITUME_T,Enrobé bitumineux (BBSG),tonne,95.0,199.89,eurostat,2026-09-11T20:38:14
+2019-01-01,PLACO_M2,Plaque de plâtre BA13,m2,4.42,100.0,eurostat,2026-09-11T20:38:14
+2019-02-01,PLACO_M2,Plaque de plâtre BA13,m2,4.43,100.21,eurostat,2026-09-11T20:38:14
+2019-03-01,PLACO_M2,Plaque de plâtre BA13,m2,4.43,100.21,eurostat,2026-09-11T20:38:14
+2019-04-01,PLACO_M2,Plaque de plâtre BA13,m2,4.43,100.21,eurostat,2026-09-11T20:38:14
+2019-05-01,PLACO_M2,Plaque de plâtre BA13,m2,4.44,100.41,eurostat,2026-09-11T20:38:14
+2019-06-01,PLACO_M2,Plaque de plâtre BA13,m2,4.45,100.62,eurostat,2026-09-11T20:38:14
+2019-07-01,PLACO_M2,Plaque de plâtre BA13,m2,4.45,100.51,eurostat,2026-09-11T20:38:14
+2019-08-01,PLACO_M2,Plaque de plâtre BA13,m2,4.46,100.82,eurostat,2026-09-11T20:38:14
+2019-09-01,PLACO_M2,Plaque de plâtre BA13,m2,4.45,100.51,eurostat,2026-09-11T20:38:14
+2019-10-01,PLACO_M2,Plaque de plâtre BA13,m2,4.44,100.31,eurostat,2026-09-11T20:38:14
+2019-11-01,PLACO_M2,Plaque de plâtre BA13,m2,4.44,100.41,eurostat,2026-09-11T20:38:14
+2019-12-01,PLACO_M2,Plaque de plâtre BA13,m2,4.44,100.41,eurostat,2026-09-11T20:38:14
+2020-01-01,PLACO_M2,Plaque de plâtre BA13,m2,4.47,101.03,eurostat,2026-09-11T20:38:14
+2020-02-01,PLACO_M2,Plaque de plâtre BA13,m2,4.46,100.82,eurostat,2026-09-11T20:38:14
+2020-03-01,PLACO_M2,Plaque de plâtre BA13,m2,4.46,100.93,eurostat,2026-09-11T20:38:14
+2020-04-01,PLACO_M2,Plaque de plâtre BA13,m2,4.45,100.62,eurostat,2026-09-11T20:38:14
+2020-05-01,PLACO_M2,Plaque de plâtre BA13,m2,4.46,100.82,eurostat,2026-09-11T20:38:14
+2020-06-01,PLACO_M2,Plaque de plâtre BA13,m2,4.47,101.13,eurostat,2026-09-11T20:38:14
+2020-07-01,PLACO_M2,Plaque de plâtre BA13,m2,4.48,101.34,eurostat,2026-09-11T20:38:14
+2020-08-01,PLACO_M2,Plaque de plâtre BA13,m2,4.47,101.13,eurostat,2026-09-11T20:38:14
+2020-09-01,PLACO_M2,Plaque de plâtre BA13,m2,4.49,101.44,eurostat,2026-09-11T20:38:14
+2020-10-01,PLACO_M2,Plaque de plâtre BA13,m2,4.47,101.13,eurostat,2026-09-11T20:38:14
+2020-11-01,PLACO_M2,Plaque de plâtre BA13,m2,4.47,101.03,eurostat,2026-09-11T20:38:14
+2020-12-01,PLACO_M2,Plaque de plâtre BA13,m2,4.46,100.93,eurostat,2026-09-11T20:38:14
+2021-01-01,PLACO_M2,Plaque de plâtre BA13,m2,4.51,101.85,eurostat,2026-09-11T20:38:14
+2021-02-01,PLACO_M2,Plaque de plâtre BA13,m2,4.51,101.96,eurostat,2026-09-11T20:38:14
+2021-03-01,PLACO_M2,Plaque de plâtre BA13,m2,4.49,101.54,eurostat,2026-09-11T20:38:14
+2021-04-01,PLACO_M2,Plaque de plâtre BA13,m2,4.49,101.54,eurostat,2026-09-11T20:38:14
+2021-05-01,PLACO_M2,Plaque de plâtre BA13,m2,4.51,101.85,eurostat,2026-09-11T20:38:14
+2021-06-01,PLACO_M2,Plaque de plâtre BA13,m2,4.51,102.06,eurostat,2026-09-11T20:38:14
+2021-07-01,PLACO_M2,Plaque de plâtre BA13,m2,4.54,102.68,eurostat,2026-09-11T20:38:14
+2021-08-01,PLACO_M2,Plaque de plâtre BA13,m2,4.59,103.81,eurostat,2026-09-11T20:38:14
+2021-09-01,PLACO_M2,Plaque de plâtre BA13,m2,4.59,103.71,eurostat,2026-09-11T20:38:14
+2021-10-01,PLACO_M2,Plaque de plâtre BA13,m2,4.62,104.43,eurostat,2026-09-11T20:38:14
+2021-11-01,PLACO_M2,Plaque de plâtre BA13,m2,4.64,104.84,eurostat,2026-09-11T20:38:14
+2021-12-01,PLACO_M2,Plaque de plâtre BA13,m2,4.67,105.56,eurostat,2026-09-11T20:38:14
+2022-01-01,PLACO_M2,Plaque de plâtre BA13,m2,4.87,110.2,eurostat,2026-09-11T20:38:14
+2022-02-01,PLACO_M2,Plaque de plâtre BA13,m2,4.9,110.81,eurostat,2026-09-11T20:38:14
+2022-03-01,PLACO_M2,Plaque de plâtre BA13,m2,4.94,111.64,eurostat,2026-09-11T20:38:14
+2022-04-01,PLACO_M2,Plaque de plâtre BA13,m2,5.11,115.55,eurostat,2026-09-11T20:38:14
+2022-05-01,PLACO_M2,Plaque de plâtre BA13,m2,5.2,117.51,eurostat,2026-09-11T20:38:14
+2022-06-01,PLACO_M2,Plaque de plâtre BA13,m2,5.27,119.05,eurostat,2026-09-11T20:38:14
+2022-07-01,PLACO_M2,Plaque de plâtre BA13,m2,5.31,120.08,eurostat,2026-09-11T20:38:14
+2022-08-01,PLACO_M2,Plaque de plâtre BA13,m2,5.37,121.32,eurostat,2026-09-11T20:38:14
+2022-09-01,PLACO_M2,Plaque de plâtre BA13,m2,5.39,121.73,eurostat,2026-09-11T20:38:14
+2022-10-01,PLACO_M2,Plaque de plâtre BA13,m2,5.39,121.83,eurostat,2026-09-11T20:38:14
+2022-11-01,PLACO_M2,Plaque de plâtre BA13,m2,5.46,123.48,eurostat,2026-09-11T20:38:14
+2022-12-01,PLACO_M2,Plaque de plâtre BA13,m2,5.5,124.3,eurostat,2026-09-11T20:38:14
+2023-01-01,PLACO_M2,Plaque de plâtre BA13,m2,5.75,129.97,eurostat,2026-09-11T20:38:14
+2023-02-01,PLACO_M2,Plaque de plâtre BA13,m2,5.87,132.65,eurostat,2026-09-11T20:38:14
+2023-03-01,PLACO_M2,Plaque de plâtre BA13,m2,5.91,133.68,eurostat,2026-09-11T20:38:14
+2023-04-01,PLACO_M2,Plaque de plâtre BA13,m2,5.91,133.57,eurostat,2026-09-11T20:38:14
+2023-05-01,PLACO_M2,Plaque de plâtre BA13,m2,5.91,133.68,eurostat,2026-09-11T20:38:14
+2023-06-01,PLACO_M2,Plaque de plâtre BA13,m2,5.9,133.47,eurostat,2026-09-11T20:38:14
+2023-07-01,PLACO_M2,Plaque de plâtre BA13,m2,5.85,132.34,eurostat,2026-09-11T20:38:14
+2023-08-01,PLACO_M2,Plaque de plâtre BA13,m2,5.87,132.75,eurostat,2026-09-11T20:38:14
+2023-09-01,PLACO_M2,Plaque de plâtre BA13,m2,5.85,132.34,eurostat,2026-09-11T20:38:14
+2023-10-01,PLACO_M2,Plaque de plâtre BA13,m2,5.85,132.13,eurostat,2026-09-11T20:38:14
+2023-11-01,PLACO_M2,Plaque de plâtre BA13,m2,5.82,131.51,eurostat,2026-09-11T20:38:14
+2023-12-01,PLACO_M2,Plaque de plâtre BA13,m2,5.8,131.2,eurostat,2026-09-11T20:38:14
+2024-01-01,PLACO_M2,Plaque de plâtre BA13,m2,5.8,131.1,eurostat,2026-09-11T20:38:14
+2024-02-01,PLACO_M2,Plaque de plâtre BA13,m2,5.8,131.0,eurostat,2026-09-11T20:38:14
+2024-03-01,PLACO_M2,Plaque de plâtre BA13,m2,5.79,130.9,eurostat,2026-09-11T20:38:14
+2024-04-01,PLACO_M2,Plaque de plâtre BA13,m2,5.79,130.79,eurostat,2026-09-11T20:38:14
+2024-05-01,PLACO_M2,Plaque de plâtre BA13,m2,5.8,131.1,eurostat,2026-09-11T20:38:14
+2024-06-01,PLACO_M2,Plaque de plâtre BA13,m2,5.76,130.28,eurostat,2026-09-11T20:38:14
+2024-07-01,PLACO_M2,Plaque de plâtre BA13,m2,5.76,130.18,eurostat,2026-09-11T20:38:14
+2024-08-01,PLACO_M2,Plaque de plâtre BA13,m2,5.79,130.79,eurostat,2026-09-11T20:38:14
+2024-09-01,PLACO_M2,Plaque de plâtre BA13,m2,5.73,129.45,eurostat,2026-09-11T20:38:14
+2024-10-01,PLACO_M2,Plaque de plâtre BA13,m2,5.73,129.45,eurostat,2026-09-11T20:38:14
+2024-11-01,PLACO_M2,Plaque de plâtre BA13,m2,5.7,128.94,eurostat,2026-09-11T20:38:14
+2024-12-01,PLACO_M2,Plaque de plâtre BA13,m2,5.71,129.15,eurostat,2026-09-11T20:38:14
+2025-01-01,PLACO_M2,Plaque de plâtre BA13,m2,5.77,130.38,eurostat,2026-09-11T20:38:14
+2025-02-01,PLACO_M2,Plaque de plâtre BA13,m2,5.75,130.07,eurostat,2026-09-11T20:38:14
+2025-03-01,PLACO_M2,Plaque de plâtre BA13,m2,5.74,129.76,eurostat,2026-09-11T20:38:14
+2025-04-01,PLACO_M2,Plaque de plâtre BA13,m2,5.75,130.07,eurostat,2026-09-11T20:38:14
+2025-05-01,PLACO_M2,Plaque de plâtre BA13,m2,5.77,130.38,eurostat,2026-09-11T20:38:14
+2025-06-01,PLACO_M2,Plaque de plâtre BA13,m2,5.76,130.28,eurostat,2026-09-11T20:38:14
+2025-07-01,PLACO_M2,Plaque de plâtre BA13,m2,5.76,130.18,eurostat,2026-09-11T20:38:14
+2025-08-01,PLACO_M2,Plaque de plâtre BA13,m2,5.77,130.38,eurostat,2026-09-11T20:38:14
+2025-09-01,PLACO_M2,Plaque de plâtre BA13,m2,5.74,129.76,eurostat,2026-09-11T20:38:14
+2025-10-01,PLACO_M2,Plaque de plâtre BA13,m2,5.73,129.45,eurostat,2026-09-11T20:38:14
+2025-11-01,PLACO_M2,Plaque de plâtre BA13,m2,5.73,129.56,eurostat,2026-09-11T20:38:14
+2025-12-01,PLACO_M2,Plaque de plâtre BA13,m2,5.71,129.04,eurostat,2026-09-11T20:38:14
+2026-01-01,PLACO_M2,Plaque de plâtre BA13,m2,5.76,130.28,eurostat,2026-09-11T20:38:14
+2026-02-01,PLACO_M2,Plaque de plâtre BA13,m2,5.75,130.07,eurostat,2026-09-11T20:38:14
+2026-03-01,PLACO_M2,Plaque de plâtre BA13,m2,5.75,130.07,eurostat,2026-09-11T20:38:14
+2026-04-01,PLACO_M2,Plaque de plâtre BA13,m2,5.87,132.65,eurostat,2026-09-11T20:38:14
+2026-05-01,PLACO_M2,Plaque de plâtre BA13,m2,5.9,133.26,eurostat,2026-09-11T20:38:14
+2026-06-01,PLACO_M2,Plaque de plâtre BA13,m2,5.94,134.19,eurostat,2026-09-11T20:38:14
+2026-07-01,PLACO_M2,Plaque de plâtre BA13,m2,5.9,133.37,eurostat,2026-09-11T20:38:14

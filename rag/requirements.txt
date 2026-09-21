@@ -1,0 +1,6 @@
+# Module 8 — chatbot RAG
+chromadb>=0.5
+anthropic>=0.34
+pandas>=2.1
+psycopg2-binary>=2.9
+pytest>=8.0

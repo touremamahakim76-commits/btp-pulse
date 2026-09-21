@@ -1,0 +1,32 @@
+# Module 3 — PostgreSQL pour BTP Pulse
+# Démarrer :  docker compose -f database/docker-compose.yml up -d
+# Arrêter  :  docker compose -f database/docker-compose.yml down
+# Repartir de zéro (efface les données) :  ... down -v
+#
+# NB : le Module 14 fusionnera ce service dans le docker-compose global.
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: btp_pulse_pg
+    environment:
+      POSTGRES_DB: btp_pulse
+      POSTGRES_USER: btp
+      POSTGRES_PASSWORD: btp_pulse_dev
+      # Fixe la locale pour un tri/format de date déterministe
+      LANG: fr_FR.UTF-8
+    ports:
+      - "5432:5432"
+    volumes:
+      - btp_pulse_pgdata:/var/lib/postgresql/data
+      # Le schéma est appliqué automatiquement au TOUT PREMIER démarrage
+      # (volume vide). Ensuite : python load.py --init
+      - ./schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U btp -d btp_pulse"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+volumes:
+  btp_pulse_pgdata:

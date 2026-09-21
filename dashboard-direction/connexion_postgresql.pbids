@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "postgres",
+        "address": {
+          "server": "localhost:5432",
+          "database": "btp_pulse"
+        }
+      },
+      "mode": "DirectQuery"
+    }
+  ]
+}

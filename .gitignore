@@ -1,0 +1,54 @@
+# Python / Node
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+node_modules/
+
+# Environnements et secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+secrets/
+**/secrets/
+
+# Tests / caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+htmlcov/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Builds / artefacts
+build/
+dist/
+out/
+coverage/
+*.egg-info/
+
+# Bases de données locales / données sensibles
+*.db
+*.sqlite3
+*.sqlite
+*.joblib
+chroma_data/
+**/chroma_data/
+
+# Fichiers de runtime locaux
+*.bak
+*.tmp
+*.orig

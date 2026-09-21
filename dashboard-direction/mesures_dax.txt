@@ -1,0 +1,72 @@
+Module 10 — Mesures DAX pour le dashboard direction (BTP Pulse)
+=================================================================
+À créer dans Power BI Desktop : clic droit sur la table concernée >
+Nouvelle mesure > coller la formule.
+
+--- Table materiaux_prix ------------------------------------------
+
+Dernier prix connu (contexte de filtre = un matériau) :
+
+Dernier prix =
+VAR DerniereDate = MAX ( materiaux_prix[date_releve] )
+RETURN
+    CALCULATE ( AVERAGE ( materiaux_prix[prix] ), materiaux_prix[date_releve] = DerniereDate )
+
+Variation sur 12 mois glissants (%) :
+
+Variation 12 mois % =
+VAR DerniereDate = MAX ( materiaux_prix[date_releve] )
+VAR PrixActuel = CALCULATE ( AVERAGE ( materiaux_prix[prix] ), materiaux_prix[date_releve] = DerniereDate )
+VAR DateRef = EDATE ( DerniereDate, -12 )
+VAR PrixRef =
+    CALCULATE (
+        AVERAGE ( materiaux_prix[prix] ),
+        FILTER ( ALL ( materiaux_prix ), materiaux_prix[date_releve] <= DateRef ),
+        materiaux_prix[date_releve] = CALCULATE ( MAX ( materiaux_prix[date_releve] ),
+            FILTER ( ALL ( materiaux_prix ), materiaux_prix[date_releve] <= DateRef ) )
+    )
+RETURN
+    DIVIDE ( PrixActuel - PrixRef, PrixRef )
+
+--- Table appels_offres --------------------------------------------
+
+Appels d'offres pertinents ouverts :
+
+AO ouverts pertinents =
+CALCULATE (
+    COUNTROWS ( appels_offres ),
+    appels_offres[score_pertinence] >= 4,
+    appels_offres[date_limite_reponse] >= TODAY ()
+)
+
+--- Table devis_historique ------------------------------------------
+
+Taux de réussite (%) :
+
+Taux de reussite % =
+VAR Gagnes = CALCULATE ( COUNTROWS ( devis_historique ), devis_historique[statut] = "gagné" )
+VAR Statues = CALCULATE ( COUNTROWS ( devis_historique ), devis_historique[statut] IN { "gagné", "perdu" } )
+RETURN DIVIDE ( Gagnes, Statues )
+
+Marge moyenne pondérée par montant :
+
+Marge ponderee % =
+DIVIDE (
+    SUMX ( devis_historique, devis_historique[montant_ht] * devis_historique[marge_estimee_pct] ),
+    SUM ( devis_historique[montant_ht] )
+)
+
+Montant total du pipeline en cours :
+
+Pipeline en cours € =
+CALCULATE ( SUM ( devis_historique[montant_ht] ), devis_historique[statut] = "en cours" )
+
+--- Table resultats_tests_statistiques -------------------------------
+
+Nb matériaux en variation significative :
+
+Materiaux en alerte =
+CALCULATE (
+    DISTINCTCOUNT ( resultats_tests_statistiques[code_materiau] ),
+    resultats_tests_statistiques[significatif] = TRUE
+)

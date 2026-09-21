@@ -1,0 +1,74 @@
+# Module 4 — Airflow pour BTP Pulse
+#
+# Deux services :
+#   - postgres_airflow : base PostgreSQL dédiée aux métadonnées Airflow
+#     (séparée de la base applicative du Module 3 — bonne pratique :
+#     on ne mélange pas les métadonnées d'orchestration et les données
+#     métier).
+#   - airflow           : webserver + scheduler + triggerer en un seul
+#     conteneur (`command: standalone`), avec LocalExecutor.
+#
+# Prérequis : la base applicative doit déjà tourner, car ce conteneur
+# rejoint son réseau Docker pour atteindre btp_pulse_pg :
+#   docker compose -f ../database/docker-compose.yml up -d
+#
+# Démarrer :  docker compose -f orchestration/docker-compose.yml up -d --build
+# UI        :  http://localhost:8080
+# Identifiants générés au 1er démarrage :
+#   docker logs btp_pulse_airflow 2>&1 | grep -A2 "Password for user"
+
+services:
+  postgres_airflow:
+    image: postgres:16-alpine
+    container_name: btp_pulse_airflow_pg
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+    volumes:
+      - airflow_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow -d airflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  airflow:
+    build: .
+    container_name: btp_pulse_airflow
+    depends_on:
+      postgres_airflow:
+        condition: service_healthy
+    environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres_airflow/airflow
+      # Connexion à la base APPLICATIVE du Module 3 (même réseau Docker)
+      PGHOST: btp_pulse_pg
+      PGPORT: "5432"
+      PGDATABASE: btp_pulse
+      PGUSER: btp
+      PGPASSWORD: btp_pulse_dev
+    ports:
+      - "8080:8080"
+    volumes:
+      # Logs, config, mot de passe admin (pas les métadonnées : en Postgres)
+      - airflow_home:/opt/airflow
+      # DAGs du projet
+      - ./dags:/opt/airflow/dags
+      # Code des Modules 1/2/3/6/13, réutilisé tel quel par les DAGs
+      - ../ingestion:/opt/airflow/ingestion
+      - ../database:/opt/airflow/database
+      - ../analytics:/opt/airflow/analytics
+      - ../bot:/opt/airflow/bot
+    command: standalone
+
+networks:
+  default:
+    name: database_default
+    external: true
+
+volumes:
+  airflow_home:
+  airflow_pgdata:

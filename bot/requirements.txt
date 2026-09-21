@@ -1,0 +1,4 @@
+# Module 13 — bot d'alerte Telegram
+requests>=2.31
+psycopg2-binary>=2.9
+pytest>=8.0
